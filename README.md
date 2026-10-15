@@ -1,1 +1,1 @@
-# friends_total_codex
+# total_codex
